@@ -1,0 +1,108 @@
+.hero{
+    background-color: #A6D6D6;
+    height:85vhvh;
+}
+
+.name{
+    text-align:center;
+}
+
+.heading{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    color: #8E7DBE;
+}
+
+.programmer{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #8E7DBE;
+}
+
+.mountain{
+    height:245px;
+}
+
+.mountain-image{
+    text-align: center;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.profile{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+}
+
+.intro{
+    text-align:center;
+}
+
+.hello{
+    font-size:40px;
+    color: #8E7DBE;
+    font-weight:350;
+}
+
+.info{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.design{
+    height:200px;
+    width:275px;
+    float:left;
+    margin-right:20px;
+    margin-bottom: 20px;
+}
+
+.development{
+    font-size: 20px;
+    text-align: left;
+    color: #8E7DBE;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.text{
+    text-align: left;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.skill{
+    text-align: center;
+}
+
+.love{
+    font-size:20px;
+    text-align: center;
+    color: #8E7DBE;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.work{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer{
+    background-color: #A6D6D6;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
